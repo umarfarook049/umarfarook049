@@ -49,7 +49,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009591080253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_umar_farook/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://www.snapchat.com/add/umar_049?share_id=IQE2nEc4FXM&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="supun___lk" height="30" width="40" /></a>
-<a href="http://t.me/Umar049" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="supun___lk" height="30" width="40" /></a>
+<a href="http://t.me/Umar049" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="supun___lk" height="30" width="40" /></a>
 
 </p>
 <br>
