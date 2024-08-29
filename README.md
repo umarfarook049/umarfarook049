@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 👨‍💻 All of my projects are available at [Umar's Portfolio](http://supun.traditionalme.life)
+- 👨‍💻 All details about me [Umar's Portfolio](https://umarfarook049.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
